@@ -1,0 +1,13 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary/backup files
+*.tmp
+*.log
+*.bak
+*.swp
+
+# Ignore generated files
+__pycache__/
+*.pyc
