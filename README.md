@@ -6,7 +6,6 @@ This repository contains documents, artefacts, and project management resources
 for my MSc project.  
 
 ## Structure
-- `docs/` → Proposal, midpoint review, final report drafts
 - `artefact/` → Implementation/code
 - `project_management/` → Gantt chart, Trello screenshots, sprint notes
 
