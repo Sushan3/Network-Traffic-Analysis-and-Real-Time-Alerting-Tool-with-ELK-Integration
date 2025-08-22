@@ -2,7 +2,7 @@
 Github
 # MSc Project – Sprint-Based Management
 
-This repository contains documents, artefacts, and project management resources 
+This repository contains artefacts, and project management resources 
 for my MSc project.  
 
 ## Structure
